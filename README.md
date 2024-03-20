@@ -1,1 +1,1 @@
-# CodeClause_Online_Musing_Streaming_Application
+# Online_Musing_Streaming_Application
